@@ -1,0 +1,168 @@
+{
+   "checksum": "89d7ca2b0cddba4596371baf4212ae9b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "b5481c9b-c8ec-4b76-ad46-3137cbe090d6",
+               "id": "17",
+               "name": "OSA Portal",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://portal.csa.spawar.navy.mil/",
+               "visit_count": 0
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "5f6e9687-b745-42f0-acc2-803ea82378c8",
+               "id": "18",
+               "name": "Confluence",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://services.csa.spawar.navy.mil/confluence/#all-updates",
+               "visit_count": 0
+            } ],
+            "date_added": "13376642038103201",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "34c8ae1e-7b5d-43ff-a2b7-0dacc82e7afb",
+            "id": "16",
+            "name": "OSA",
+            "source": "import_fre",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "2c02a291-a289-43ec-a795-700d450c8ae7",
+               "id": "13",
+               "name": "Outlook",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://webmail.apps.mil.mcas-gov.us/mail/",
+               "visit_count": 0
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "640e1b57-c32d-411d-a1ea-30932c5951d0",
+               "id": "14",
+               "name": "Teams",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://dod.teams.microsoft.us.mcas-gov.us/v2",
+               "visit_count": 0
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "c46aaf5d-30f4-44a6-9227-83f1220b824b",
+               "id": "15",
+               "name": "SharePoint Home",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://flankspeed.sharepoint-mil.us.mcas-gov.us/sites/CPF-SRF-JRMC/",
+               "visit_count": 0
+            } ],
+            "date_added": "13376642038103008",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "2681d9f0-c8ed-402d-a82e-81b4a834b6c5",
+            "id": "12",
+            "name": "FlankSpeed",
+            "source": "import_fre",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "287ad32e-0110-427d-ba56-07ba403c4f71",
+               "id": "8",
+               "name": "https://login.dso.mil/",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://login.dso.mil/",
+               "visit_count": 0
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "f3bac223-a072-486b-9043-ee5461d86691",
+               "id": "9",
+               "name": "https://Chat.il2.dso.mil",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://login.dso.mil/auth/realms/baby-yoda/protocol/openid-connect/auth?client_id=il2_a10e1a03-3daa-4e81-847e-24f176a204b6_il2-gitlab&nonce=bc359053127f753770eb1b33346d90e0&redirect_uri=https%3A%2F%2Fcode.il2.dso.mil%2Fusers%2Fauth%2Fopenid_connect%2Fcallback&response_type=code&scope=Gitlab%20openid&state=e0d360640face60db61ca61a4b3e5ac3",
+               "visit_count": 0
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "3ccc6eba-46ec-4816-9adb-36dc450a6252",
+               "id": "10",
+               "name": "https://jira.il2.dso.mil",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://jira.il2.dso.mil/login.jsp",
+               "visit_count": 0
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "4f0d8dbf-4414-4161-a7f0-8469904f624f",
+               "id": "11",
+               "name": "https://confluence.il2.dso.mil",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://confluence.il2.dso.mil/",
+               "visit_count": 0
+            } ],
+            "date_added": "13376642038102581",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "dddb7995-4d1c-4af9-9f22-c024228445ef",
+            "id": "7",
+            "name": "Platform One",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13376636475684551",
+         "date_last_used": "0",
+         "date_modified": "13376642071152588",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13376636475684554",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13376636475684555",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

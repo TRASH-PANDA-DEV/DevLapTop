@@ -1,0 +1,1 @@
+oh-my-posh init pwsh --config C:\Users\Administrator\Documents\WindowsPowerShell\BloodUnicorn.omp.json | Invoke-Expression
